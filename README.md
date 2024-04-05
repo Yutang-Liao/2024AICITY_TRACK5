@@ -9,3 +9,6 @@ example :
 </code>
 
 It's will run the test video in test_video folder and will run 001.mp4
+
+Yolo weights:
+https://drive.google.com/drive/folders/1JZ2IMvnArP_hmXBK6j3SHzloRRVG9HK9?usp=sharing
